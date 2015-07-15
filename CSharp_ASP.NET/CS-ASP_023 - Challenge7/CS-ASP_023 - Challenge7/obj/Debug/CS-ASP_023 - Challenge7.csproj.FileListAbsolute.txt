@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\bin\CS-ASP_023 - Challenge7.dll.config
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\bin\CS-ASP_023 - Challenge7.dll
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\bin\CS-ASP_023 - Challenge7.pdb
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\obj\Debug\CS-ASP_023 - Challenge7.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\obj\Debug\CS-ASP_023 - Challenge7.dll
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_023 - Challenge7\CS-ASP_023 - Challenge7\obj\Debug\CS-ASP_023 - Challenge7.pdb

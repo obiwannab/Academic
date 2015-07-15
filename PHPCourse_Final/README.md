@@ -1,0 +1,2 @@
+## PHP Course Final
+This is a login page that utilizes PHP and MySQL.  My goal was to create a self-submitting page but also incorporate some simple JavaScript features for a future web application for personal use.

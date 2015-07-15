@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\bin\CS-ASP_034 - MegaChallenge1.dll.config
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\bin\CS-ASP_034 - MegaChallenge1.dll
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\bin\CS-ASP_034 - MegaChallenge1.pdb
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\obj\Debug\CS-ASP_034 - MegaChallenge1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\obj\Debug\CS-ASP_034 - MegaChallenge1.dll
+C:\Users\student\Desktop\Student Work\Programs\C11 C# and ASP.NET\CS-ASP_034 - MegaChallenge1\CS-ASP_034 - MegaChallenge1\obj\Debug\CS-ASP_034 - MegaChallenge1.pdb
