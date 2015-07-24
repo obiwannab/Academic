@@ -4,6 +4,20 @@ The challenges come from Bob Tabor's *C# Fundamentals via ASP.NET Web Applicatio
 ##### *All of these folders contain my MS VisualStudio (2013 Community) solutions for the different challenges*
 
 ### Contents:
+* __CS-ASP_045 - Challenge12
+    * dart game (simple 300); no user interactivity
+    * the goal was to create a separate library file with a class to use in the program logic
+* __CS-ASP_036 - Challenge11part2__
+    * character class for a simple game with battle logic
+    * there is no interactivity here with the user
+    * the goal was to work with classes to instantiate objects for use in program logic
+* __CS-ASP_035 - Challenge10__
+    * Four mini problems, all string manipulations:
+        1. Reverse a string
+        2. Reverse a sequence (array)
+        3. Old school ASCII art with .PadLeft() and .PadRight()
+        4. Remove, replace, and other manipulations on a single string
+    * I took some notes in the middle of one of the problems, so the code is a little cluttered in that spot.
 * __CS-ASP_034 - MegaChallenge1__
     * slot machine app
     * the goal was to incorporate several C# skills into a single application, including conditional logic, ViewState, and methods.
