@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9E59D1DB-B05C-423B-B935-2E1D3F22E00C}</ProjectGuid>
+    <ProjectGuid>{1B847EC8-5446-41F6-A892-88A731E3020D}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CS_ASP_045___Challenge12</RootNamespace>
-    <AssemblyName>CS-ASP_045 - Challenge12</AssemblyName>
+    <RootNamespace>CS_ASP_051___MegaChallenge2</RootNamespace>
+    <AssemblyName>CS-ASP_051 - MegaChallenge2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -65,36 +65,31 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="CS-ASP_045-Challenge-Requirements.txt" />
     <Content Include="Global.asax" />
-    <Content Include="SimpleDarts.aspx" />
+    <Content Include="War.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GameOf300.cs" />
+    <Compile Include="Battle.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="GameOfWar.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Score.cs" />
-    <Compile Include="SimpleDarts.aspx.cs">
-      <DependentUpon>SimpleDarts.aspx</DependentUpon>
+    <Compile Include="StandardDeck.cs" />
+    <Compile Include="War.aspx.cs">
+      <DependentUpon>War.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="SimpleDarts.aspx.designer.cs">
-      <DependentUpon>SimpleDarts.aspx</DependentUpon>
+    <Compile Include="War.aspx.designer.cs">
+      <DependentUpon>War.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Darts\Darts.csproj">
-      <Project>{6c4f82b8-c2f8-4c56-b0c5-8e7ae56094cc}</Project>
-      <Name>Darts</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -109,9 +104,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51614</DevelopmentServerPort>
+          <DevelopmentServerPort>49402</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:51614/</IISUrl>
+          <IISUrl>http://localhost:50413/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

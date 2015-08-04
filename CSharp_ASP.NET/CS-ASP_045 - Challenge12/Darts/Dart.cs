@@ -23,15 +23,15 @@ namespace Darts
 
         public void ThrowDart()
         {
-            this.ThrowResult = _randomNum.Next(0, 20);
+            this.ThrowResult = _randomNum.Next(0, 21);
             setFlags();
             //return this.ThrowResult;
         }
 
         private void setFlags()
         {
-            this.InnerRing = (this._randomNum.Next(1, 20) == 20) ? true : false;
-            this.OuterRing = (this._randomNum.Next(1, 20) == 20) ? true : false;
+            this.InnerRing = (this._randomNum.Next(1, 21) == 20) ? true : false;
+            this.OuterRing = (this._randomNum.Next(1, 21) == 20) ? true : false;
         }
     }
 }

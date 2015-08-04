@@ -4,6 +4,12 @@ The challenges come from Bob Tabor's *C# Fundamentals via ASP.NET Web Applicatio
 ##### *All of these folders contain my MS VisualStudio (2013 Community) solutions for the different challenges*
 
 ### Contents:
+* __CS-ASP_051 - MegaChallenge2
+    * simulation of the simple card game, War
+    * the only user interaction is entering player names
+    * the goal was to utilize mutliple classes to handle all the aspects of the game; my first attempt at separation of concerns.
+    * I have program logic that determines if a player can continue to draw cards, however I have not handled exiting the predetermined 20 rounds if this happens before the rounds are up.
+    * I utilized a Stack<T> collection for the different "decks" in the game which I thought would be a good fit with Push() and Pop().  However, I have not yet handled continuing the game by repopulating the players' hands with their winnings, which I could not implement because of the nature of the Stack<T> collection.
 * __CS-ASP_045 - Challenge12
     * dart game (simple 300); no user interactivity
     * the goal was to create a separate library file with a class to use in the program logic
